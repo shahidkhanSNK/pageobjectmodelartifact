@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-14T06:42:41 EST" name="Default suite" finished-at="2022-02-14T06:43:22 EST" duration-ms="41179">
+    <groups>
+    </groups>
+    <test started-at="2022-02-14T06:42:41 EST" name="Default test" finished-at="2022-02-14T06:43:22 EST" duration-ms="41179">
+      <class name="Test.GrtLoginPageTest">
+        <test-method is-config="true" signature="setuptest()[pri:0, instance:Test.GrtLoginPageTest@1cbb87f3]" started-at="2022-02-14T06:42:41 EST" name="setuptest" finished-at="2022-02-14T06:42:44 EST" duration-ms="2593" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setuptest -->
+        <test-method signature="login()[pri:0, instance:Test.GrtLoginPageTest@1cbb87f3]" started-at="2022-02-14T06:42:44 EST" name="login" finished-at="2022-02-14T06:43:21 EST" duration-ms="37596" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="navclient()[pri:1, instance:Test.GrtLoginPageTest@1cbb87f3]" started-at="2022-02-14T06:43:21 EST" name="navclient" finished-at="2022-02-14T06:43:21 EST" duration-ms="108" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navclient -->
+        <test-method is-config="true" signature="teardowntest()[pri:0, instance:Test.GrtLoginPageTest@1cbb87f3]" started-at="2022-02-14T06:43:21 EST" name="teardowntest" finished-at="2022-02-14T06:43:22 EST" duration-ms="811" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardowntest -->
+      </class> <!-- Test.GrtLoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
